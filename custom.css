@@ -1,0 +1,100 @@
+.jumbotron {
+	background: url("http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg")
+	no-repeat center center;
+	height: 585px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-header {
+	color: white;
+	float: left;
+	margin: 20px 0px 0px 20px;
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.navbar-list li {
+	color: white;
+	float: right;
+	margin: 20px 25px 0px 25px;
+	list-style: none;
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 800;
+}
+
+.title {
+	width: 800px;
+	margin: 80px auto 0px;
+	color: white;
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.signature {
+	width: 800px;
+	margin: 40px auto;
+	color: white;
+	font-family: Lora,'Times New Roman',serif;
+}
+
+.text {
+  width: 800px;
+  margin: 80px auto 0;
+}
+
+p {
+	font-family: Lora,'Times New Roman',serif;
+    font-size: 20px;
+	margin: 25px 0 25px 0;
+}
+
+.article {
+	margin: 70px 0 0 0;
+	font-size: 35px;
+}
+
+blockquote {
+	color: #777;
+	font-style: italic;
+	padding: 10px 20px;
+	/*font-size: 17.5px;*/
+	border-left: 5px solid #eee;
+}
+
+.image {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.caption {
+	font-size: 14px;
+	padding: 10px;
+	font-style: italic;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+hr {
+	margin: 50px 0;
+	border-top: 1px solid #eee;
+}
+
+.links {
+	padding: 0;
+	margin: 30px 0;
+	text-align: center;
+}
+
+.links li {
+	margin:0 10px 10px 10px;
+	list-style: none;
+	display: inline;
+}
+
+.copyright {
+	text-align: center;
+	margin: 0 0 75px;
+}
